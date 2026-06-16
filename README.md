@@ -9,5 +9,5 @@ The Libraries used in this project weere
 8.Python-docx 
 9.sentence-transformers 
 
-intro - It extracts text from resume(PDF/Docx) and a job description , checks while required skills are present or missing uses an ai model to 
+intro - It extracts text from resume(PDF/Docx) and a job description , checks while required skills are present or missing uses an ai model(NLP) to 
 compare how similar the resume overall meaning is to the job description and gives a match score with improvement suggestions using gradio.
